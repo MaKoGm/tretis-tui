@@ -1,0 +1,15 @@
+# Directorios de compilación de CMake
+build/
+bin/
+
+# Archivos objeto y ejecutables
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
